@@ -35,3 +35,4 @@ $(document).ready(function(){
 	});
 
 });
+/* this scrip has been changed */
