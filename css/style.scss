@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 /*the Head With main title in nesting scss */
 header {
-  background-color: #061339;
+  background-color: #a81283;
 
   .navbar {
     background: none;
@@ -23,7 +23,7 @@ header {
     height: 45px;
 
     .navbar-header h1 {
-      color: #fff;
+      color:rgb(255, 255, 255) ;
       font-size: 1.8em;
       line-height: 2.4em;
       padding: 0;
@@ -94,7 +94,7 @@ main {
   }
 
   #content:hover img {
-    background-color: #061339;
+    background-color: #06390d;
     transition: background-color 0.4s ease-in;
   }
 }
